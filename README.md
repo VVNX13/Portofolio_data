@@ -5,7 +5,7 @@ Proyek ini adalah portofolio Data Analisis yang bertujuan untuk membedah karakte
 
 Tujuan utama dari proyek ini adalah untuk memberikan wawasan bisnis (*business insights*) yang dapat digunakan oleh penerbit buku (publisher) atau penulis baru dalam merancang strategi penerbitan mereka.
 
-ertanyaan Bisnis yang Dijawab
+Pertanyaan Bisnis yang Dijawab
 1. Genre Dominan: Dari puluhan genre yang ada, genre apa yang paling merajai daftar *bestseller*?
 2. Distribusi Penulis: Apakah pasar didominasi oleh segelintir penulis besar yang sama, atau tersebar ke banyak penulis beragam?
 3. **Karakteristik Fisik:** Berapa rata-rata ketebalan (jumlah halaman) dari sebuah buku yang sukses menjadi *bestseller*?

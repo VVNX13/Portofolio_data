@@ -27,9 +27,3 @@ Berdasarkan analisis yang telah dilakukan, ditemukan beberapa poin penting:
 * **Peluang Pasar pada Genre Tertentu:** Genre **'Reading & Writing'** terbukti sangat mendominasi daftar *bestseller*. Hal ini menunjukkan permintaan pasar yang tinggi dan bisa menjadi ceruk fokus yang menguntungkan bagi penerbit.
 * **Tingkat Keberagaman Penulis yang Sehat:** Pasar tidak dimonopoli oleh segelintir nama. Sebagian besar penulis bintang hanya muncul satu kali dalam daftar ini. Bagi penerbit, ini berarti risiko bisnis lebih rendah karena kesuksesan tidak bergantung mutlak pada satu atau dua penulis saja.
 * **Format Pendek Lebih Mendominasi:** Walaupun rata-rata ketebalan buku adalah 122 halaman, nilai tengah (*median*) berada di angka **36 halaman**. Buku dengan format yang sangat pendek (seperti *board books* atau buku anak) terbukti sangat sukses. Ini mengisyaratkan bahwa untuk menjadi *bestseller*, buku tidak harus tebal.
-
-Cara Menjalankan Proyek Ini
-1. Clone repositori ini ke komputer Anda: `git clone [URL_GITHUB_ANDA]`
-2. Pastikan Anda telah menginstal Python dan library yang dibutuhkan (`pandas`, `matplotlib`, `seaborn`, `numpy`).
-3. Buka file `Books_Sales.ipynb` menggunakan Jupyter Notebook atau Visual Studio Code.
-4. Jalankan setiap sel (*cell*) secara berurutan untuk melihat proses pembersihan data dan hasil visualisasinya.

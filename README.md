@@ -1,12 +1,12 @@
 Hi, I'm Devano
 
-I'm learning and exploring the world of data — cleaning messy datasets, finding patterns, and building models that can help people make better decisions.
+I'm learning and exploring the world of data cleaning messy datasets, finding patterns, and building models that can help people make better decisions.
 This repository is a collection of projects I've worked on throughout that process. Still growing.
 
 Projects
 Anatomy of a Bestseller — Exploratory Data Analysis (2023–2025)
 
-I was curious: what actually makes a book a bestseller? This project tries to answer that through data — looking at which genres dominate, whether the market is controlled by a handful of big names, and how long a typical bestselling book actually is.
+I was curious: what actually makes a book a bestseller? This project tries to answer that through data looking at which genres dominate, whether the market is controlled by a handful of big names, and how long a typical bestselling book actually is.
 
 The results were interesting. The *Reading & Writing* genre dominated consistently, the market turned out to be fairly open for new authors, and the median page count was only 36 pages — much thinner than I expected.
 Tools: Python, Pandas, Matplotlib, Seaborn
@@ -23,7 +23,7 @@ Tools: Python, Pandas, NLTK, VADER Sentiment, WordCloud, Plotly
 
 Loan Approval Prediction — Data Mining
 
-A final project for my Data Mining course. My team and I built a model to predict whether a loan application would be approved or rejected, based on features like income, credit score, and debt-to-income ratio.
+A final project for my Data Mining course. My team and I built a model to predict whether a loan application would be approved or rejected, based on features like income, credit score, and debt to income ratio.
 
 The process covered the full pipeline — from data exploration and cleaning, to modeling with Logistic Regression and Random Forest, to clustering borrower risk profiles. The results were wrapped up in a simple interactive dashboard using Streamlit.
 
